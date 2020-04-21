@@ -5,7 +5,6 @@ programa
 
     inteiro codigo, qtde
     real valor=0.00
-    
     cadeia item=""
 
     escreva("*** Cardápio ***\n")
@@ -51,7 +50,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 83; 
+ * @POSICAO-CURSOR = 752; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
